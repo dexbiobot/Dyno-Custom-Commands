@@ -9,10 +9,16 @@
     </image:image>
   </url>
   <url>
+    <loc>https://dynocc.xyz/amp</loc>
+  </url>
+  <url>
     <loc>https://dynocc.xyz/Command%20List</loc>
   </url>
   <url>
     <loc>https://dynocc.xyz/verification</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/variables</loc>
   </url>
   <url>
     <loc>https://dynocc.xyz/ModerationCommands/VerificationCommands/Nex</loc>
@@ -25,9 +31,6 @@
   </url>
   <url>
     <loc>https://dynocc.xyz/bored</loc>
-  </url>
-  <url>
-    <loc>https://dynocc.xyz/chat</loc>
   </url>
   <url>
     <loc>https://dynocc.xyz/SupportUs</loc>
@@ -44,9 +47,6 @@
   </url>
   <url>
     <loc>https://dynocc.xyz/amp/CodeGenerator</loc>
-  </url>
-  <url>
-    <loc>https://dynocc.xyz/amp/chat</loc>
   </url>
   <url>
     <loc>https://dynocc.xyz/amp/CodeGenerator</loc>

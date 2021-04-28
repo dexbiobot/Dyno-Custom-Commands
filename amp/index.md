@@ -1,8 +1,8 @@
 ---
 title: Dyno Custom Commands
-layout: homepage
-redirect_from: /new-homepage
-amplink: https://dynocc.xyz/amp
+layout: amp
+canonical_url: https://dynocc.xyz
+permalink: /amp
 ---
 
 # Welcome to Dyno Custom Commands!
@@ -11,7 +11,7 @@ These commands are made solely for the public, so you can experience Dyno the sa
 
 You can easily add our commands to your Discord server!
 
-<a href="https://discord.gg/D3K3Fqz"><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" style="float: right; border-radius: 5px"></a>
+<p><a href="https://discord.gg/D3K3Fqz"><amp-img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" width="320" height="140" style="float: right; border-radius: 5px"><noscript><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" width="320" height="140" style="float: right; border-radius: 5px"></noscript></amp-img></a></p>
 
 
 <a href="Command List" class="dcc-button">Custom Commands List</a><span class="divider"></span><a href="CreateOwn" class="dcc-button">How to Create a Command</a>
